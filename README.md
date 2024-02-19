@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript for web dev and Java for DSA
 - 💞️ I’m looking to collaborate on frontend web design
 - 📫 How to reach me ceoamit22@gmail.com
-- 😄 Pronouns: CEO
+- 😄 Pronouns: AJ
 - ⚡ Fun fact: Stay Hungry Stay Foolish
 
 <!---
