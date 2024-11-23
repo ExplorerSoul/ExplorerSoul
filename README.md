@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ExplorerSoul
-- 👀 I’m interested in Website and App development
-- 🌱 I’m currently learning JavaScript for web dev and Java for DSA
-- 💞️ I’m looking to collaborate on frontend web design
+- 👀 I’m interested in machine learning and computer vision
 - 📫 How to reach me ceoamit22@gmail.com
 - 😄 Pronouns: AJ
 - ⚡ Fun fact: Stay Hungry Stay Foolish
